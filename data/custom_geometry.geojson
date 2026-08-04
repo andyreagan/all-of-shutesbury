@@ -1,0 +1,29 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "seg_id": "S141",
+    "note": "GASS LITE LANE north half; MassDOT line cuts across lot 145, replaced with OSM way 9423168"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -72.430931,
+      42.505274
+     ],
+     [
+      -72.431328,
+      42.505697
+     ],
+     [
+      -72.4319965,
+      42.506162
+     ]
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "require_segments": [],
+ "exclude_segments": [
+  "S021",
+  "S023",
+  "S162",
+  "S163"
+ ],
+ "exclude_points": [
+  "S171-0",
+  "S172-0",
+  "S173-1",
+  "S271-1"
+ ]
+}
