@@ -63,6 +63,14 @@ TEMPLATE = """<!DOCTYPE html>
   </div>
   <div id="stats"></div>
   <div id="roads"></div>
+  <div style="margin-top:10px; border-top:1px solid #ddd; padding-top:8px" class="hint">
+    Ride every road in Shutesbury, MA — 3,078 points on 46 required miles.
+    Upload your ride's GPX above to see how you did.<br>
+    Routes that do it all: <a href="route_conservative.gpx" download>conservative
+    (76.8 mi)</a> · <a href="route_wide.gpx" download>trusting (76.0 mi)</a> ·
+    <a href="friend_ride.gpx" download>the 84.5% attempt</a><br>
+    <a href="https://github.com/andyreagan/all-of-shutesbury">data + methodology</a>
+  </div>
 </div>
 <script>
 const ROADS = __ROADS__;
