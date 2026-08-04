@@ -159,9 +159,9 @@ Where Map 3 is just wrong — trust MassDOT/OSM, don't chase the overlay:
 - Town Farm Rd: the map's drawing is way off.
 - Middle of Baker Rd drawn as paved — that's never been the case. A mistake.
 
-## Baseline: friend's attempt (`../Every_Road_In_Shutesbury_.gpx`)
+## Baseline: friend's attempt (`friend_ride.gpx`)
 
-2609/3070 points (85.0%); 30/73 roads done, 43 to go. Biggest gaps:
+2601/3078 points (84.5%); 29/73 roads done, 44 to go. Biggest gaps:
 Town Farm Rd (2.4 km), Cornwell Rd (0.8 km), Weatherwood (0.6 km),
 plus ~40 smaller roads/stubs.
 
